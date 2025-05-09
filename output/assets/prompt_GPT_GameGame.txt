@@ -1,0 +1,28 @@
+eu preciso que você crie, como se fosse em um podcast, um diálogo entre o apresentador e o entrevistado. o tema do podcast é sobre todos os jogos lançados da franquia GTA. o apresentador se chama Pepeu e o entrevistado se chama Luquinha da Galera. o nome do podcast é GameGame.
+
+[APRESENTADOR]
+faz uma pequena introdução de abertura do programa, dá as boas vindas aos ouvintes e dá um panorama dos jogos atuais mais famosos de consoles e PC.
+
+[APRESENTADOR]
+apresenta o entrevistado aos ouvintes e pergunta ao entrevistado uma curiosidade sobre os jogos da franquia GTA.
+
+[ENTREVISTADO]
+se apresenta aos ouvintes e responde a pergunta do apresentador
+
+[APRESENTADOR]
+elogia a resposta e pede uma segunda curiosidade sobre a franquia GTA para o entrevistado.
+
+[ENTREVISTADO]
+responde.
+
+[APRESENTADOR]
+pergunta ao entrevistado sobre o que esperar do novo GTA IV que será lançado em 2026.
+
+[ENTREVISTADO]
+responde a pergunta do apresentador.
+
+[APRESENTADOR]
+agradece a presença do entrevistado e se despede com muita alegria dos ouvintes.
+--
+as perguntas do apresentador devem ser práticas e simples.
+a duração do podcast não deve ultrapassar 5 minutos.
